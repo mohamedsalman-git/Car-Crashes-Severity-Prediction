@@ -5,6 +5,8 @@ Kaggle competition. You are given information about the environment of the car c
 Data Description
 You're provided with data about car crashes severity. The file contains 16 features, it represents the car crashes in the city of San Francisco between 2016 and 2020.
 
+### **Note: you are not allowed to change the model architecture from a decision tree of max_depth of 2**
+
 ## File descriptions
 * train.csv - the training set.
 * holidays.xml - Information about whether the day is a regular day or a holiday.
